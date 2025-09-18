@@ -1,4 +1,4 @@
-# Orion-v1 — Virtual Machine Documentation
+# OrionForge — Virtual Machine Documentation
 
 ## Abstract
 **Orion-v1** is a modular, blockchain-inspired virtual machine designed to serve as the execution layer of decentralized protocols. It establishes a foundation for instruction definition, modular architecture, and error-safe execution. While lightweight in its current iteration, Orion-v1 is structured to scale into a production-grade virtual machine supporting advanced cryptographic and blockchain-specific operations.
